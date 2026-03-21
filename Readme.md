@@ -1,19 +1,13 @@
-<h1><b>📘 Data Structures & Algorithms</b></h1>
+<h1>📘 Data Structures & Algorithms</h1>
 
 <details open>
-  <summary><b>🔍 Binary Search</b></summary>
+  <summary><b>1. 🔍 Binary Search</b></summary>
 
-  <br>
-
-  <details>
-    <summary>Practice Questions</summary>
-
-  - [ ] Binary Search (Basic)
-  - [ ] First Occurrence of Element
-  - [ ] Last Occurrence of Element
-  - [ ] Search in Rotated Sorted Array
-  - [ ] Find Peak Element
-  - [ ] Square Root using Binary Search
+  1. Left Most and Right Most index (eassy)  
+  2. Search Insert Position (eassy) 
+  3. Peak Index in a Mountain array (Medium) 
+  4. Find the Smallest Missing element from a sorted array   
+  5. Find Kth Rotation (eassy) 
 
   </details>
 
