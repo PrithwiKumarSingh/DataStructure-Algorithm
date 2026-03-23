@@ -1,6 +1,6 @@
 # 📘 Data Structures & Algorithms
 
-<details open>
+<details>
   <summary><b>🔍 Binary Search</b></summary>
 
   <br>
@@ -12,6 +12,7 @@
   - [ ] **Search Insert Position**
   - [ ] **Rotation Count in Sorted Array (Find K-th Rotation)**
   - [ ] **Sqrt(x)**
+  - [ ] **Kth Missing Positive Number**
 
   </details>
 
@@ -25,32 +26,6 @@
 
   </details>
 
-  <br>
-
-  <details>
-    <summary><b>🧠 Binary Search Patterns</b></summary>
-
-  #### 🔹 Classic Binary Search
-  - Search Insert Position  
-  - First & Last Occurrence  
-
-  #### 🔹 Binary Search on Answer
-  - Sqrt(x)  
-  - Smallest Missing Element  
-
-  #### 🔹 Rotated Sorted Array
-  - Rotation Count  
-  - Find Minimum  
-  - Search in Rotated Array  
-
-  #### 🔹 Peak / Bitonic Problems
-  - Peak Index in Mountain Array  
-
-  </details>
-
-  <br>
-
-  <details>
     <summary><b>🧩 Template</b></summary>
 
 ```cpp
