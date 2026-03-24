@@ -24,6 +24,7 @@
   - [ ] **Find Minimum in Rotated Sorted Array**
   - [ ] **Search in Rotated Sorted Array**
   - [ ] **Allocate Minimum Pages**
+  - [ ] **Capacity To Ship Packages Within D Days**
 
   </details>
 
