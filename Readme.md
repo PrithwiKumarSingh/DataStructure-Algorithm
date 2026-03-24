@@ -27,6 +27,13 @@
 
   </details>
 
+  <details>
+    <summary><b>🟡 Hard</b></summary>
+
+  - [ ] **The Painter's Partition Problem-II**
+
+  </details>
+
     <summary><b>🧩 Template</b></summary>
 
 ```cpp
