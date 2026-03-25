@@ -19,7 +19,7 @@ public:
             // left portion 
             else if(arr[mid]>= arr[0]){
              if(arr[mid]>target && arr[0]<=target){
-                end = mid -1;
+                end = mid -1;arr[0]<=target
             }else{
                 start = mid+1;
                }

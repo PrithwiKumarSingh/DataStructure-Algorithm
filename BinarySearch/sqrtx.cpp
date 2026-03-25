@@ -18,7 +18,7 @@ public:
                 end = mid-1;
             }else{
                 start = mid+1;
-                squre = mid;
+                squre = mid;0
             }
         }
         return squre;

@@ -25,6 +25,7 @@
   - [ ] **Search in Rotated Sorted Array**
   - [ ] **Allocate Minimum Pages**
   - [ ] **Capacity To Ship Packages Within D Days**
+  - [ ] **Koko Eating Bananas**
 
   </details>
 
