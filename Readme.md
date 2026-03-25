@@ -33,6 +33,7 @@
     <summary><b>🟡 Hard</b></summary>
 
   - [ ] **The Painter's Partition Problem-II**
+  - [ ] **Split Array Largest Sum**
 
   </details>
 
