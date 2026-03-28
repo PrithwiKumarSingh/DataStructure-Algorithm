@@ -26,6 +26,7 @@
   - [ ] **Allocate Minimum Pages**
   - [ ] **Capacity To Ship Packages Within D Days**
   - [ ] **Koko Eating Bananas**
+  - [ ] **Aggressive Cows**
 
   </details>
 
