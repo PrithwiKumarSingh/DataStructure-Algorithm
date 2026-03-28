@@ -27,6 +27,7 @@
   - [ ] **Capacity To Ship Packages Within D Days**
   - [ ] **Koko Eating Bananas**
   - [ ] **Aggressive Cows**
+  - [ ] **Magnetic Force Between Two Balls**
 
   </details>
 
