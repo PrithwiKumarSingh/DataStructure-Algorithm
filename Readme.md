@@ -28,6 +28,9 @@
   - [ ] **Koko Eating Bananas**
   - [ ] **Aggressive Cows**
   - [ ] **Magnetic Force Between Two Balls**
+  - [ ] **Two Sum II - Input Array Is Sorted**
+  - [ ] **Three Sum**
+  - [ ] **Four Sum**
 
   </details>
 
