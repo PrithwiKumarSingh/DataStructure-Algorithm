@@ -13,6 +13,7 @@
   - [ ] **Rotation Count in Sorted Array (Find K-th Rotation)**
   - [ ] **Sqrt(x)**
   - [ ] **Kth Missing Positive Number**
+  - [ ] **Pair With Difference**
 
   </details>
 
@@ -31,6 +32,7 @@
   - [ ] **Two Sum II - Input Array Is Sorted**
   - [ ] **Three Sum**
   - [ ] **Four Sum**
+
 
   </details>
 
