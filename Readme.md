@@ -32,6 +32,7 @@
   - [ ] **Two Sum II - Input Array Is Sorted**
   - [ ] **Three Sum**
   - [ ] **Four Sum**
+  - [ ] **Product Pair**
 
 
   </details>
