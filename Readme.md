@@ -16,6 +16,7 @@
   - [ ] **Pair With Difference**
   - [ ] **Split an array into two equal Sum subarrays**
   - [ ] **Equal Sum**
+  - [ ] **Maximum Difference Between Increasing Elements**
 
 
   </details>
