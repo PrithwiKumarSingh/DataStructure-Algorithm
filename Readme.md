@@ -15,6 +15,8 @@
   - [ ] **Kth Missing Positive Number**
   - [ ] **Pair With Difference**
   - [ ] **Split an array into two equal Sum subarrays**
+  - [ ] **Equal Sum**
+
 
   </details>
 
