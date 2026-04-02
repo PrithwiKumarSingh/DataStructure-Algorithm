@@ -17,6 +17,7 @@
   - [ ] **Split an array into two equal Sum subarrays**
   - [ ] **Equal Sum**
   - [ ] **Maximum Difference Between Increasing Elements**
+  - [ ] **Maximum prefix sum for a given range**
 
 
   </details>
