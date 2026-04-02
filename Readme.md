@@ -37,6 +37,7 @@
   - [ ] **Three Sum**
   - [ ] **Four Sum**
   - [ ] **Product Pair**
+  - [ ] **Kadane's Algorithm && Maximum Subarray**
 
 
   </details>
