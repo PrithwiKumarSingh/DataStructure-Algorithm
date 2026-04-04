@@ -82,3 +82,36 @@ public:
         
     }
 };
+
+// Solving this problem in One pass Time Complexity: O(N)  Space Complexity: O(1) 
+// Two pointer approach
+
+class Solution {
+public:
+    int trap(vector<int>& height) {
+
+        int n = height.size();
+
+        int leftMax = 0, rightMax = 0, totalWater = 0;
+        int start = 0, end = n-1;
+
+        while(start<=end){
+            if(height[start] > height[end]){
+                if(rightMax > height[end]){
+                    totalWater += rightMax - height[end];
+                }
+                rightMax = max(rightMax, height[end]);
+                end--;
+            }else{
+                if(leftMax > height[start]){
+                    totalWater += leftMax - height[start];
+                }
+                leftMax = max(leftMax, height[start]);
+                start++;
+            }
+        }
+    
+    return totalWater;
+        
+    }
+};
