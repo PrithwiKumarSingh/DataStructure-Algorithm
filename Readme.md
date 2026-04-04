@@ -44,14 +44,14 @@
   </details>
 
   <details>
-    <summary><b>🟡 Hard</b></summary>
+    <summary><b>🔴 Hard</b></summary>
 
   - [ ] **The Painter's Partition Problem-II**
   - [ ] **Split Array Largest Sum**
   - [ ] **Trapping Rain Water**
 
   </details>
-
+<details>
     <summary><b>🧩 Template</b></summary>
 
 ```cpp
@@ -65,8 +65,69 @@ int binarySearch(vector<int>& arr, int target) {
         else if (arr[mid] < target) start = mid + 1;
         else end = mid - 1;
     }
+```
+</details>
+
+</details>
+
+<details>
+  <summary><b> 🧮 2D Array (Matrix)</b></summary>
+
+A collection of important **2D Array / Matrix problems** categorized by difficulty.
+
+---
+<details>
+<summary><b>🟢 Easy </b></summary>
+
+- [ ] Transpose Matrix  
+
+</details>
+
+
+<details>
+<summary><b>🟡 Medium </b></summary>
+
+- [ ] Transpose Ma
+
+</details>
+
+<details>
+<summary><b>🔴 Hard </b></summary>
+
+- [ ] Transpose Matrix  
+
+</details>
+
+
+<details>
+<summary><b>🧩 Basic Matrix Template</b></summary>
+
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+    int n = 3, m = 3;
+    int arr[3][3] = {
+        {1, 2, 3},
+        {4, 5, 6},
+        {7, 8, 9}
+    };
+
+    // Traversal
+    for(int i = 0; i < n; i++) {
+        for(int j = 0; j < m; j++) {
+            cout << arr[i][j] << " ";
+        }
+        cout << endl;
+    }
+
+    return 0;
+}
 
     return -1;
 }
+```
 
+</details>
 
