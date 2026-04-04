@@ -93,21 +93,21 @@ public:
         int n = height.size();
 
         int leftMax = 0, rightMax = 0, totalWater = 0;
-        int start = 0, end = n-1;
+        int left = 0, right = n-1;
 
-        while(start<=end){
-            if(height[start] > height[end]){
-                if(rightMax > height[end]){
-                    totalWater += rightMax - height[end];
+        while(left<=right){
+            if(height[left] > height[right]){
+                if(rightMax > height[right]){
+                    totalWater += rightMax - height[right];
                 }
-                rightMax = max(rightMax, height[end]);
-                end--;
+                rightMax = max(rightMax, height[right]);
+                right--;
             }else{
-                if(leftMax > height[start]){
-                    totalWater += leftMax - height[start];
+                if(leftMax > height[left]){
+                    totalWater += leftMax - height[left];
                 }
-                leftMax = max(leftMax, height[start]);
-                start++;
+                leftMax = max(leftMax, height[left]);
+                left++;
             }
         }
     
