@@ -48,6 +48,7 @@
 
   - [ ] **The Painter's Partition Problem-II**
   - [ ] **Split Array Largest Sum**
+  - [ ] **Trapping Rain Water**
 
   </details>
 

@@ -49,3 +49,36 @@ public:
 
 
 // Solving this problem in Two pass Time Complexity: O(N)  Space Complexity: O(n)
+class Solution {
+public:
+    int trap(vector<int>& height) {
+
+        int n = height.size();
+
+        vector<int> rightMax(n,0);
+        rightMax[n-1] = height[n-1];
+
+        int leftMax = height[0];
+
+        // Suffix Max  
+        for(int i=n-2; i>0; i--){
+            rightMax[i] = max(rightMax[i+1],height[i]);
+        }
+
+        int totalWater = 0; 
+
+        for(int i=1; i<n-1; i++){
+            int minLeftRight = min(leftMax, rightMax[i+1]);
+
+            if(minLeftRight > height[i])
+            totalWater += minLeftRight-height[i];
+
+            leftMax = max(leftMax, height[i]);
+            
+
+        }
+    
+    return totalWater;
+        
+    }
+};
