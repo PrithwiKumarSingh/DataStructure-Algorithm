@@ -79,7 +79,7 @@ A collection of important **2D Array / Matrix problems** categorized by difficul
 <details>
 <summary><b>🟢 Easy </b></summary>
 
-- [ ] Transpose Matrix  
+- [ ] Addition of two square matrices
 
 </details>
 
