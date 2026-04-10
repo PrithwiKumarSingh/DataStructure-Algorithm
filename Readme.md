@@ -89,6 +89,7 @@ A collection of important **2D Array / Matrix problems** categorized by difficul
 
 - [ ] Sprial Matrix
 - [ ] Rotate Image
+- [ ] Rotate by 90 degree
 
 </details>
 
