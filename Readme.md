@@ -87,7 +87,8 @@ A collection of important **2D Array / Matrix problems** categorized by difficul
 <details>
 <summary><b>🟡 Medium </b></summary>
 
-- [ ] Transpose Ma
+- [ ] Sprial Matrix
+- [ ] Rotate Image
 
 </details>
 
