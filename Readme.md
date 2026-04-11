@@ -92,6 +92,7 @@ A collection of important **2D Array / Matrix problems** categorized by difficul
 - [ ] Rotate by 90 degree
 - [ ] Rotate a Matrix by 180 Counterclockwise
 - [ ] Search a 2D Matrix
+- [ ] Search a 2D Matrix II
 
 </details>
 
