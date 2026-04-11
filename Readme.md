@@ -90,13 +90,15 @@ A collection of important **2D Array / Matrix problems** categorized by difficul
 - [ ] Sprial Matrix
 - [ ] Rotate Image
 - [ ] Rotate by 90 degree
+- [ ] Rotate a Matrix by 180 Counterclockwise
+- [ ] Search a 2D Matrix
 
 </details>
 
 <details>
 <summary><b>🔴 Hard </b></summary>
 
-- [ ] Transpose Matrix  
+- [ ] Coming Soon 
 
 </details>
 
