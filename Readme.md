@@ -148,6 +148,7 @@ int main() {
 - [ ] To Lower Case
 - [ ] Lower case to upper case
 - [ ] Defanging an IP Address
+- [ ] Reverse String
 
 </details>
 
