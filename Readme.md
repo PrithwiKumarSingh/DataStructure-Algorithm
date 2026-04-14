@@ -149,6 +149,7 @@ int main() {
 - [ ] Lower case to upper case
 - [ ] Defanging an IP Address
 - [ ] Reverse String
+- [ ] First Unique Character in a String
 
 </details>
 
