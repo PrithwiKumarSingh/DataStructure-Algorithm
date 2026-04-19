@@ -159,7 +159,8 @@ int main() {
 <details>
 <summary><b>🟡 Medium </b></summary>
 
-- [ ] Coming Soon
+- [ ] Factorials of large numbers
+
 
 </details>
 
