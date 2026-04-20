@@ -152,6 +152,7 @@ int main() {
 - [ ] First Unique Character in a String
 - [ ] Sort a string
 - [ ] Add String
+- [ ] Sorting the Sentence
 
 </details>
 
