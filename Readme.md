@@ -153,6 +153,7 @@ int main() {
 - [ ] Sort a string
 - [ ] Add String
 - [ ] Sorting the Sentence
+- [ ] Longest Palindrome
 
 </details>
 
