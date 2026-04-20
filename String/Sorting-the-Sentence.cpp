@@ -1,4 +1,4 @@
-
+//  https://leetcode.com/problems/sorting-the-sentence/
 
 class Solution {
 public:
@@ -16,3 +16,18 @@ public:
                 word.push_back(s[i]);
             }
         }
+
+        string ans; 
+        for(int i=1; i<str[1].size(); i++){
+            ans.push_back(str[1][i]);
+        }
+        for(int i=2; i<10; i++){
+            if(str[i].size()==0){
+                break;
+            }
+            ans += str[i];
+        }
+
+        return ans;
+    }
+};
