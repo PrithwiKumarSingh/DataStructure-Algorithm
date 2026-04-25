@@ -162,6 +162,7 @@ int main() {
 <summary><b>🟡 Medium </b></summary>
 
 - [ ] Factorials of large numbers
+- [ ] Longest Substring Without Repeating Characters
 
 
 </details>
