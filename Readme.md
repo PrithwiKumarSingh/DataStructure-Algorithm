@@ -154,6 +154,7 @@ int main() {
 - [ ] Add String
 - [ ] Sorting the Sentence
 - [ ] Longest Palindrome
+- [ ] Smallest window containing 0, 1 and 2
 
 </details>
 
@@ -163,6 +164,7 @@ int main() {
 
 - [ ] Factorials of large numbers
 - [ ] Longest Substring Without Repeating Characters
+- [ ] Smallest distinct window
 
 
 </details>
