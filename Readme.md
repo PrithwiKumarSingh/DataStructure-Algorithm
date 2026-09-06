@@ -155,6 +155,7 @@ int main() {
 - [ ] Sorting the Sentence
 - [ ] Longest Palindrome
 - [ ] Smallest window containing 0, 1 and 2
+- [ ] 28. Find the Index of the First Occurrence in a String
 
 </details>
 
@@ -172,7 +173,8 @@ int main() {
 <details>
 <summary><b>🔴 Hard </b></summary>
 
-- [ ] Coming Soon 
+- [ ] Longest Prefix Suffix
+
 
 </details>
 
