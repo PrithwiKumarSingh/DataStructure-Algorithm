@@ -166,6 +166,7 @@ int main() {
 - [ ] Factorials of large numbers
 - [ ] Longest Substring Without Repeating Characters
 - [ ] Smallest distinct window
+- [ ] Repeated String Match
 
 
 </details>
@@ -174,6 +175,9 @@ int main() {
 <summary><b>🔴 Hard </b></summary>
 
 - [ ] Longest Prefix Suffix
+- [ ] Min Chars to Add for Palindrome
+- [ ] Search Pattern
+
 
 
 </details>
